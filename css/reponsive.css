@@ -152,10 +152,10 @@
     }
     .tab-pane {
         position: absolute;
-        top: 12%;
-        left: 60%;
+        top: 6%;
+        left: 50%;
         font-size: 24px;
-        width: 100%;
+        width: 300px;
     }
     .container-pane i
     {
@@ -184,7 +184,8 @@
     }
     .icon{
         top: 95%;
-        left: 6%;
+        left: 4%;
+        width: 200px;
     }
     .icon a {
         margin-left: 5px;
