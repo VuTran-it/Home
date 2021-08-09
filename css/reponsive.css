@@ -145,7 +145,7 @@
     .tab-content {
         background-image: url(../img/bìa.jpg);
         background-size: 100% 100%;
-        min-height: 270px;
+        min-height: 200px;
         background-repeat: no-repeat;
         position: relative;
         border-bottom: 4px solid white;
@@ -153,10 +153,9 @@
     .tab-pane {
         position: absolute;
         top: 12%;
-        left: 50%;
+        left: 58%;
         font-size: 24px;
         width: 100%;
-        padding: 0 5% 0 15%;
     }
     .container-pane i
     {
