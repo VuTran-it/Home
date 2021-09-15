@@ -331,7 +331,7 @@ const app = {
     currenIndex3: 0,
     imgs1: [
         {
-            img1: '../img/2019/2.jpg',
+            img1: '../img/2019/1.jpg',
             img2: '../img/2019/2.jpg',
             img3: '../img/2019/3.jpg',
             img4: '../img/2019/4.jpg',
